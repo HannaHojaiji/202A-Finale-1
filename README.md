@@ -1,4 +1,4 @@
-# ECE-M202A-Final
+# 202A-Final
 ### Weekly Plan
  * Weeks 1-3: Project Proposal and Eval
  * Weeks 4-6: Sensor and Server Development (Midterm Presentation)
